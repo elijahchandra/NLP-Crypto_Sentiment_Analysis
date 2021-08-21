@@ -14,4 +14,5 @@ This exercise accomplishes the following tasks:
    a. Found n-gram counts and created word clouds for both coins using the NLTK and Python to tokenize text.
    
 3. Named Entity Recognition
+
 4. Built a named entity recognition model for both coins and visualized the tags using SpaCy.
