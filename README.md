@@ -15,4 +15,4 @@ This exercise accomplishes the following tasks:
    
 3. Named Entity Recognition
 
-4. Built a named entity recognition model for both coins and visualized the tags using SpaCy.
+   a. Built a named entity recognition model for both coins and visualized the tags using SpaCy.
